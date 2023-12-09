@@ -66,7 +66,7 @@ class MainActivity : AppCompatActivity() {
                 b_start.isEnabled = true
                 b_click.isEnabled = false
 
-
+                //ayaw nagana//
             }
 
         }
