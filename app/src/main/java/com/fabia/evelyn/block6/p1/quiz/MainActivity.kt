@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity() {
             tv_time.text = "Time: $currentTime"
             tv_clicks.text = "Clicks: $currentClicks"
 
-
+            //ayaw mag-click//
 
             b_start.isEnabled = false
             b_click.isEnabled = true
